@@ -173,7 +173,7 @@
 	<!--export-->
 <property name="object.class" value="MultiProtocolGateway"/>
 <property name="object.name" value="addition_oper_uri_manasa"/>
-<property name="export.file" value="D:\ANT_DCM_Softwares\datapower-configuration-manager-master\ExportedObjects\DPG-Service.zip"/>
+<property name="export.file" value="D:/DPG-Service.zip"/>
 
   
   
